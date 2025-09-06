@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Formulário PGR",
+  "description": "Uma aplicação para extrair dados de um documento PGR (Programa de Gerenciamento de Riscos) em PDF, listar os Grupos Homogêneos de Exposição (GHEs) e gerar um formulário de Análise e Avaliação de Riscos preenchido e editável para cada GHE.",
+  "requestFramePermissions": []
+}
